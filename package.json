@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "bottender": "1.4.10",
-    "cool-ascii-faces": "^1.3.4"
+    "cool-ascii-faces": "^1.3.4",
+    "inspirational-quotes": "^1.0.8"
   },
   "devDependencies": {
     "eslint": "^7.9.0",
