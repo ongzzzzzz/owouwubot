@@ -1,6 +1,10 @@
 This project was bootstrapped with
 [Bottender](https://github.com/Yoctol/bottender) init script.
 
+# Note:
+sadly facebook demoted messenger chatbots so this is kinda a dead project :P
+nevertheless great nodejs experience 😃
+
 ## Sending Feedback
 
 Always feel free to open an issue to
